@@ -27,7 +27,7 @@ namespace vmvpro_mvc.Controllers
             return View();
         }
 
-        public ActionResult BusinesVMV()
+        public ActionResult TestCSS()
         {
             ViewBag.Message = "Your BusinesVMV page.";
 
